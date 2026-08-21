@@ -1,0 +1,4 @@
+[submodule "infrastructure/terraform"]
+	path = infrastructure/terraform
+	url = git@github.com:yrsluv/terraform.git
+	branch = master
